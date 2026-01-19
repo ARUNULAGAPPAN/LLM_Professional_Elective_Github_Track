@@ -48,6 +48,7 @@ Positional Encoding
 MLM Head          Classification Head
 (Token Prediction)   (Sentence Label)
 
+
 🧠 Core Concepts Explained
 🔹 Positional Encoding
 
@@ -135,3 +136,4 @@ Pretraining large language models
 🏁 Conclusion
 
 This project successfully demonstrates how a Transformer Encoder learns rich, contextual representations through Self-Attention and MLM. The architecture highlights why Transformers have become the backbone of modern NLP systems.
+
