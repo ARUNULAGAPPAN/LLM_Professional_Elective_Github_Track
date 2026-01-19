@@ -48,7 +48,6 @@ Positional Encoding
 MLM Head          Classification Head
 (Token Prediction)   (Sentence Label)
 
-
 🧠 Core Concepts Explained
 🔹 Positional Encoding
 
@@ -96,10 +95,6 @@ The model predicts the original word using both left and right context
 
 This forces the encoder to learn bidirectional representations, unlike traditional left-to-right language models.
 
-📊 Results & Visualization
-🔥 Attention Heatmap (Visualization)
-
-(Insert your generated Seaborn / Matplotlib attention heatmap here)
 
 The visualization demonstrates that the token “powerful” attends strongly to “Transformers”, indicating that the model correctly captures the subject–attribute relationship.
 
@@ -136,4 +131,5 @@ Pretraining large language models
 🏁 Conclusion
 
 This project successfully demonstrates how a Transformer Encoder learns rich, contextual representations through Self-Attention and MLM. The architecture highlights why Transformers have become the backbone of modern NLP systems.
+
 
